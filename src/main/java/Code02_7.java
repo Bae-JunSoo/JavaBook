@@ -11,7 +11,7 @@ public class Code02_7 {
 
         c = "3.14";
         b = Double.parseDouble(c);
-        System.out.println("문자열 ==> 실수 :" + b);
+        System.out.println("문자열 ==> 실수 : " + b);
 
     }
 }
