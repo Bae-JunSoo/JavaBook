@@ -10,3 +10,4 @@ public class Code_class10_05 {
         System.out.println("매개변수 3개 메서드 호출 결과 ==> "  + hap);
     }
 }
+//
